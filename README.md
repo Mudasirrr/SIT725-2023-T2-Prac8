@@ -6,8 +6,8 @@ For completing this task, I have used following tools and Framework:<br>
    # 1. Node. js<br>
    # 2. Vs Code <br>
    # 3. Express.js <br>
-   # 4. GitHub Repository<br>
-   # 5. Git<br>
+   # 4. Git<br>
+   # 5. GitHub Repository<br>
 <br>
    
 # How it will work?
