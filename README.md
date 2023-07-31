@@ -1,6 +1,6 @@
 # SIT725-2023-T2-Prac3
 -------------------------------------------------------------------------------------------------------------------<br>
-For this evaluation, I just create a website utilizing the Express.js Framework, Node.js, CSS, Javascript, Materialize, and basic HTML.
+For this evaluation, I just created a simple website utilizing the Node.js, Express.js Framework, CSS, Javascript, Materialize, and basic HTML.
 
 For completing this task, I have used following tools and Framework:<br>
    # 1. Node. js<br>
