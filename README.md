@@ -1,7 +1,7 @@
 # SIT725-2023-T2-Prac5
--------------------------------------------------------------------------------------------------------------------<br>
+<br>---------------------------------------------------------------<br>
 ```Demo Web application by utilizing Professional MVC (Model View Controller)```
--------
+<br>-----------------------------------------------------------------------------------------<br>
 Model, View, and Controller are the three primary logical components that make up an 
 application according to the Model-View-Controller (MVC) architecture, an architectural/design 
 pattern. Each architectural element is designed to manage particular application development 
