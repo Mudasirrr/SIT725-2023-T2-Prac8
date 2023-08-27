@@ -1,7 +1,7 @@
 # SIT725-2023-T2-Prac5
 
 <br>---------------------------------------------------------------<br>
-``Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing``
+#Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing``
 <br>-----------------------------------------------------------------------------------------<br>
 
 
@@ -41,12 +41,14 @@ facets
 1. Clone this repository in your system``<br>
    ``git init``
    ``git clone https://github.com/Mudasirrr/SIT725-2023-T2-Prac4.git``
-2. Use NPM (Node Package Manager) to install dependencies for this project. `<br>
+2. Use NPM (Node Package Manager) to install dependencies for this project. <br>
    ``npm init``
-3. To install express  `<br>
-   ``npm install express`` and `<br>
+3. To install express  <br>
+   ``npm install express`` and <br>
 4. To install mongodb: `<br>
    ``npm install mongodb@4.1.1```<br>
+   4. To install mocha and chai: <br>
+   ``npm install mocha chai```<br>
 
 # Note: First you will need to create an account on MongoDB [https://www.mongodb.com/]
 
@@ -54,27 +56,27 @@ If you are new to Mongodb please follow this link (https://www.mongodb.com/basic
 
 5. to start the server, just go to the terminal and write ``npm start or node.server.js``
    Note: you should be in the project folder directory
-6. Go to `localhost:3000` on your browser. `<br>
+6. Go to `localhost:3000` on your browser. <br>
    =======================================================================================
 
 # Screenshots
 
-#Overall Interface`<br><br>`
+#Overall Interface<br><br>
 ------------------
 
-To add new cat:`<br>`
-1- click on click Me button`<br>`
-2- Fill the form`<br>`
-3- Submit`<br>`
+To add new cat:<br>
+1- click on click Me button<br>
+2- Fill the form<br>
+3- Submit<br>
 ---------
 
-![Add new cat](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/add%20cat1.PNG)`<br>`
+![Add new cat](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/add%20cat1.PNG)<br>
 -----------
 
-#Final Overview:`<br>`
+#Final Overview:<br>
 ----------------
 
-![Final Over View](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/AAdc.PNG)`<br>`
+![Final Over View](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/AAdc.PNG)<br>
 ---------------
 
     ~~~I hope you enjoy it~~~
