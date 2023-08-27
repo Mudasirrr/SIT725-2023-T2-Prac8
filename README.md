@@ -27,9 +27,12 @@ Model, View, and Controller are the three primary logical components that make u
 application according to the Model-View-Controller (MVC) architecture, an architectural/design
 pattern. Each architectural element is designed to manage particular application development
 facets
-------
-
----
+-------------------------------------
+![MVC Architecture](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/mvc%20arc%201.PNG)
+--------------
+-------
+![MVC Architecture Expend](https://github.com/Mudasirrr/SIT725-2023-T2-Prac5/blob/mvc/Screen%20shots/mvc%20arc%202.PNG)
+--------------
 
 
 # How it will work?
