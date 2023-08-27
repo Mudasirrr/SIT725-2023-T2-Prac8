@@ -1,7 +1,7 @@
 # SIT725-2023-T2-Prac5
 
 <br>---------------------------------------------------------------<br>
-#Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing``
+#Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing
 <br>-----------------------------------------------------------------------------------------<br>
 
 
@@ -63,7 +63,8 @@ If you are new to Mongodb please follow this link (https://www.mongodb.com/basic
 
 #Overall Interface<br><br>
 ------------------
-
+![](https://github.com/Mudasirrr/SIT725-2023-T2-Prac6/blob/master/Screen%20shots/OOUTPU.PNG)<br>
+-----------------
 To add new cat:<br>
 1- click on click Me button<br>
 2- Fill the form<br>
