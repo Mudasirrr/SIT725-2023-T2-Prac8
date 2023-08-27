@@ -1,11 +1,7 @@
 # SIT725-2023-T2-Prac5
 
-<br>---------------------------------------------------------------<br>
 # Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing
-<br>-----------------------------------------------------------------------------------------<br>
 
-
----
 
 # ***For completing this task, I have used the following tools and Framework*** <br>
 
