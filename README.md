@@ -1,13 +1,13 @@
 # SIT725-2023-T2-Prac5
 
 <br>---------------------------------------------------------------<br>
-#Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing
+# Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing
 <br>-----------------------------------------------------------------------------------------<br>
 
 
 ---
 
-# ***For completing this task, I have used the following tools and Framework:<***<br>
+# ***For completing this task, I have used the following tools and Framework*** <br>
 
 ### 1. Node. js <br>
 
@@ -50,7 +50,8 @@ facets
    4. To install mocha and chai: <br>
    ``npm install mocha chai```<br>
 
-# Note: First you will need to create an account on MongoDB [https://www.mongodb.com/]
+# Note:
+First you will need to create an account on MongoDB [https://www.mongodb.com/]
 
 If you are new to Mongodb please follow this link (https://www.mongodb.com/basics/get-started)
 
@@ -60,6 +61,10 @@ If you are new to Mongodb please follow this link (https://www.mongodb.com/basic
    =======================================================================================
 
 # Screenshots
+# Testing Output:
+----------------------------------
+![](https://github.com/Mudasirrr/SIT725-2023-T2-Prac6/blob/master/Screen%20shots/testing%20output.PNG)<br>
+---------------------------------
 
 #Overall Interface<br><br>
 ------------------
