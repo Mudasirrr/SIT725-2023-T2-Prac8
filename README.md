@@ -1,29 +1,29 @@
 # SIT725-2023-T2-Prac5
 
-`<br>`---------------------------------------------------------------`<br>`
+<br>---------------------------------------------------------------<br>
 ``Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing``
-`<br>`-----------------------------------------------------------------------------------------`<br>`
+<br>-----------------------------------------------------------------------------------------<br>
 
 
 ---
 
-# ***For completing this task, I have used the following tools and Framework:`<br>`***
+# ***For completing this task, I have used the following tools and Framework:<***<br>
 
-### 1. Node. js `<br>`
+### 1. Node. js <br>
 
-### 2. Mongodb library `<br>`
+### 2. Mongodb library <br>
 
-### 3. Express.js `<br>`
+### 3. Express.js <br>
 
-### 4. Git `<br>`
+### 4. Git <br>
 
-### 5. GitHub Repository `<br>`
+### 5. GitHub Repository <br>
 
-### 6. Vs Code `<br>`
+### 6. Vs Code <br>
 
-### 7. Mongodb website for creating a database project https://www.mongodb.com/ `<br> `
+### 7. Mongodb website for creating a database project https://www.mongodb.com/ <br> 
 
-### `8.`Mocha and chai packages for Testing
+### 8.Mocha and chai packages for Testing
 
 <br>
 
@@ -38,15 +38,15 @@ facets
 
 # How it will work?
 
-1. Clone this repository in your system``<br>`
+1. Clone this repository in your system``<br>
    ``git init``
    ``git clone https://github.com/Mudasirrr/SIT725-2023-T2-Prac4.git``
-2. Use NPM (Node Package Manager) to install dependencies for this project. `<br>`
+2. Use NPM (Node Package Manager) to install dependencies for this project. `<br>
    ``npm init``
-3. To install express  `<br>`
-   ``npm install express`` and `<br>`
-4. To install mongodb: `<br>`
-   ``npm install mongodb@4.1.1```<br>`
+3. To install express  `<br>
+   ``npm install express`` and `<br>
+4. To install mongodb: `<br>
+   ``npm install mongodb@4.1.1```<br>
 
 # Note: First you will need to create an account on MongoDB [https://www.mongodb.com/]
 
@@ -54,7 +54,7 @@ If you are new to Mongodb please follow this link (https://www.mongodb.com/basic
 
 5. to start the server, just go to the terminal and write ``npm start or node.server.js``
    Note: you should be in the project folder directory
-6. Go to `localhost:3000` on your browser. `<br>`
+6. Go to `localhost:3000` on your browser. `<br>
    =======================================================================================
 
 # Screenshots
