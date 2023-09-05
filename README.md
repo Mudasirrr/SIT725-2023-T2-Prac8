@@ -67,7 +67,7 @@ If you are new to Mongodb please follow this link (https://www.mongodb.com/basic
 
 #Overall Interface<br><br>
 ------------------
-![](https://github.com/Mudasirrr/SIT725-2023-T2-Prac6/blob/master/Screen%20shots/OOUTPU.PNG)<br>
+![](https://github.com/Mudasirrr/SIT725-2023-T2-Prac7/blob/master/Screen%20shots/OOUTPU.PNG)<br>
 -----------------
 To add new cat:<br>
 1- click on click Me button<br>
