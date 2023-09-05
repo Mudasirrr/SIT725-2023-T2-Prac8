@@ -19,7 +19,8 @@
 
 ### 7. Mongodb website for creating a database project https://www.mongodb.com/ <br> 
 
-### 8.Mocha and chai packages for Testing
+### 8. Mocha and chai packages for Testing
+### 9. Socket
 
 <br>
 
@@ -46,8 +47,10 @@ facets
    ``npm install express`` and <br>
 4. To install mongodb: `<br>
    ``npm install mongodb@4.1.1```<br>
-   4. To install mocha and chai: <br>
+5. To install mocha and chai: <br>
    ``npm install mocha chai```<br>
+5. To install socket: <br>
+   ``npm install socket.io```<br>
 
 # Note:
 First you will need to create an account on MongoDB [https://www.mongodb.com/]
