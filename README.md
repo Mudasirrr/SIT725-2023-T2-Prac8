@@ -1,4 +1,4 @@
-# SIT725-2023-T2-Prac6
+# SIT725-2023-T2-Prac7
 
 # Complete Demo Web application by utilizing Professional MVC (Model View Controller), including Testing
 
