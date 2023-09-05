@@ -9,6 +9,7 @@
     "mocha": "^10.2.0",
     "mongodb": "^4.17.1",
     "request": "^2.88.2",
+    "socket.io": "^4.7.2",
     "v20": "^0.1.0"
   },
   "devDependencies": {},
