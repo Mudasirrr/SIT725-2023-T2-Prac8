@@ -1,6 +1,6 @@
 let express = require('express');//importing the express framwork as we are going to use this one
 let app = express();
-let port = process.env.port || 3000;
+let port = process.env.port || 7777;
 require('./config/dbConnection');
 let router = require('./routers/router');
 
